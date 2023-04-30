@@ -7,7 +7,7 @@ OneKey介绍
 
 1.点击官网链接：[onekey](https://card.onekey.so/?i=NRH1LN)，进入注册界面,点击 [ sign in with Google ] ，直接使用谷歌账户注册。
 
-![](https://github.com/ChangeYu0229/ChatGPT-Plus-NewGuide/blob/main/WechatIMG119.png)
+![](https://github.com/ChangeYu0229/ChatGPT-Plus-NewGuide/blob/main/pic/WechatIMG119.png)
 
 2.账号注册后，点击[ Activate ]激活开通。卡片类型选VISA，目前是公测期间，只能通过邀请码来激活卡片。这里统一填写官方给定的邀请码：NRH1LN 【亲测，仍然有效】
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/297f8a5c46754595b7224c4afe751186~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?)
