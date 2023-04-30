@@ -6,7 +6,7 @@ OneKey介绍
 注册Onekey Card
 点击官网链接：card.onekey.so，进入注册界面,点击 [ sign in with Google ] ，直接使用谷歌账户注册。
 image.png 2. 账号注册后，点击[ Activate ]激活开通。卡片类型选VISA，目前是公测期间，只能通过邀请码来激活卡片。这里统一填写官方给定的邀请码：CA6RMD 【亲测，仍然有效】
-![Image text](https://github.com/ChangeYu0229/ChatGPT-Plus-NewGuide/blob/main/WechatIMG119.png)
+![](https://github.com/ChangeYu0229/ChatGPT-Plus-NewGuide/blob/main/WechatIMG119.png)
 
 
 实名KYC认证。按网页步骤进行实名认证，基本信息添加完毕后，点击 [ Next ]。此时需要完成人脸识别，点击 [ Please complete face verification ]，使用微信扫码进行自动验证。实名认证完成后，您的邮箱将收到一封实名认证完成的邮件。值得一提的是——凡是中心化的银行卡产品都需要做KYC认证，这是合规必须要面临的动作，不必有过多的顾虑。国内的身份几乎秒过，非国内的身份需要人工审核，一般提交之后一个工作日内会审核完的。
