@@ -35,7 +35,7 @@ OneKey介绍
 2. 从欧易转USDC到Onekey
 充值USDC，需要通过欧易平台，这是在国内比较容易购买到USDC/USDT的交易所。
 
-首先，参考文章 国内开通Chat GPT Plus保姆级教程【典藏】中的 “申请欧易账号完成USDT充值”章节完成欧易注册以及USDT的充值过程。
+首先，[点击此处](https://okx.com/join/2325389)完成欧易注册以及USDT的充值过程。
 
 完成了USDT充值后，在欧易App首页搜索USDC/USDT交易对，用USDT购买USDC，至少购买22个，因为有手续费磨损，稳妥起见，这里我购买50个。
 
@@ -51,7 +51,7 @@ OneKey介绍
 需要注意的是，新注册的欧易用户默认完成身份认证后，需要等待24小时(有的人需要7天)才可以提现，如果你着急提现到Onekey Card，你可以尝试找一下人工客服，说下你的诉求，据群友反馈，有一定概率可以解除24小时等待。万一你真的特别着急，你也可以去微博上找代充，一般对方会按照汇率1:8收点劳务费。不是很急的话建议耐心等待24小时就行，不必花这冤枉钱。
 如果你充值被欧易冻结7天不愿意等的话，也可以试试[Binance](https://accounts.binance.com/zh-CN/register?ref=NPDX0O15)，最多只冻结24小时，不过需要(魔法网络)才能访问。
 
-绑定Onekey卡到ChatGPT，然后升级到ChatGPT Plus的步骤这里就不赘述了，请直接移步到 《开通ChatGPT Plus》，记住IP一定要纯净，OpenAI对IP要求很严格。
+绑定Onekey卡到ChatGPT，然后升级到ChatGPT Plus的步骤这里就不赘述了，记住IP一定要纯净，OpenAI对IP要求很严格。
 
 祝你开通ChatGPT Plus顺利，好几个群友都说Onekey比Depay好开通。
 
