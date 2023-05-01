@@ -17,7 +17,7 @@ OneKey介绍
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dccbe7c3a1094d4798d5a51e909a5127~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?)
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/36c8a5b2c8d546f3af0a8a626b64451f~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?)
 
-4.实名认证完成后，需要绑定 Google 身份验证器，才能开始使用，点击右上角3个点，选security，绑定google auth二次验证。安装谷歌验证码App并扫描二维码，抄写备份密钥（此密钥可让您在手机丢失时恢复您的 Google 身份验证器），输入谷歌验证码和邮箱验证码，完成绑定。
+4.实名认证完成后，需要绑定 Google 身份验证器，才能开始使用，点击右上角3个点，选security，绑定google auth二次验证。安装[谷歌验证码App](https://help.onekey.so/hc/zh-cn/articles/6739716879887-OneKey-Card-%E4%B8%AD%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%B0%B7%E6%AD%8C%E9%AA%8C%E8%AF%81%E7%A0%81)并扫描二维码，抄写备份密钥（此密钥可让您在手机丢失时恢复您的 Google 身份验证器），输入谷歌验证码和邮箱验证码，完成绑定。
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/417aa83f5bc44145ac1486e07d01ad49~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?)
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/db975b94190948429096f9d23000e2f6~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?)
 
